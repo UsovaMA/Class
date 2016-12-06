@@ -1,4 +1,5 @@
 #include <locale>
+#include <stdio.h>
 #include "CMail.h"
 
 void showMenu() {
